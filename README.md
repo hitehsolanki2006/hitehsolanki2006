@@ -102,7 +102,7 @@ I believe in building things that run in real environments — not just demos.
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/hitesh-p-solanki/
-- 🌍 Portfolio: https://thehitesh.netlify.app/
+- 🌍 Portfolio: https://hiteshsolanki.in/
 - 📫 Open to collaboration & learning
 
 ---
