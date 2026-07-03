@@ -56,6 +56,14 @@ I am a DevOps Intern and BCA student who believes in building systems that run i
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+  **AI Assistants & Tools**
+  
+  ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+  ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+  ![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+  ![Antigravity AI](https://img.shields.io/badge/Antigravity_AI-00C2FF?style=for-the-badge&logo=google&logoColor=white)
+  ![Kiro AI](https://img.shields.io/badge/Kiro_AI-0A84FF?style=for-the-badge&logo=robot&logoColor=white)
+
 </div>
 
 <hr />
