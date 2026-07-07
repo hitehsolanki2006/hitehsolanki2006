@@ -2,7 +2,7 @@ name: Daily GitHub Activity Rotation
 
 on:
   schedule:
-    - cron: '0 7 * * *'
+    - cron: '30 20 * * *'
   workflow_dispatch:
 
 jobs:
@@ -69,8 +69,8 @@ jobs:
           git clone https://$GH_TOKEN@github.com/$GH_USER/$TARGET_REPO.git /tmp/target-repo
           cd /tmp/target-repo
 
-          git config user.email "action@github.com"
-          git config user.name "Hitesh Solanki"
+          git config user.email "solankihiteshpankajbhai7@gmail.com"
+          git config user.name "hitehsolanki2006"
 
           for i in $(seq 1 $NUM_COMMITS); do
             MSG_IDX=$(( RANDOM % ${#MESSAGES[@]} ))

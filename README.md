@@ -102,15 +102,15 @@ I am a DevOps Intern and BCA student who believes in building systems that run i
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=hitehsolanki2006&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+        <img src="https://github-stats-extended.vercel.app/api?username=hitehsolanki2006&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitehsolanki2006&theme=tokyonight&hide_border=true" width="400" />
+        <img src="https://streak-stats.demolab.com/?user=hitehsolanki2006&theme=tokyonight&hide_border=true" width="400" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitehsolanki2006&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hitehsolanki2006&layout=compact&theme=tokyonight&hide_border=true" width="400" />
       </td>
     </tr>
   </table>
